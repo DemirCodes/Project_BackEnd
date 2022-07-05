@@ -1,5 +1,5 @@
 * This is a project I created to improve myself.
-* Tools I use;
+* I'm using this tools;
 1- PHP
 2- JavaScript
 3- HTML
